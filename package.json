@@ -1,0 +1,14 @@
+{
+  "name": "cis2336-fa26-project-godgiventikouzou",
+  "version": "1.0.0",
+  "description": "UH Sugar Land Student Center web app - CIS 2336 Fall 2026",
+  "main": "backend/app.js",
+  "scripts": {
+    "start": "node backend/app.js"
+  },
+  "author": "Godgiven Tikouzou",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
